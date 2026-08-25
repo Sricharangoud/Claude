@@ -1,421 +1,165 @@
-I want you to transform my GitHub profile README into a modern, professional, recruiter-friendly GitHub profile.
+# Hi 👋, I'm P. Sricharan Goud
 
-IMPORTANT:
+<h3 align="center">
+  Student | Aspiring Software Engineer | SAP ABAP Developer | AI/ML Enthusiast
+</h3>
 
-* Do NOT create a new GitHub account.
-* Do NOT delete, modify, rename, or move any of my existing repositories.
-* ONLY modify my GitHub profile README repository: Sricharangoud/Sricharangoud.
-* Do NOT delete any existing projects or repository data.
-* Do NOT ask me questions. Execute the task completely.
-* Use my exact GitHub username: Sricharangoud
-* Make sure all links and image URLs work correctly.
-* Make the profile clean, modern, professional, and suitable for software/AI/SAP recruiters.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Student+%7C+Aspiring+Software+Engineer;SAP+ABAP+Developer;Java+%26+Python+Developer;Full+Stack+Developer;AI%2FML+Enthusiast;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-MY DETAILS:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sricharangoud&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-Name: P. Sricharan Goud
+---
 
-GitHub Username: Sricharangoud
+## 👨‍💻 About Me
 
-Current Role: Student
+I'm **P. Sricharan Goud**, a student passionate about software development, SAP technologies, full-stack development, and Artificial Intelligence/Machine Learning.
 
-LinkedIn:
-https://www.linkedin.com/in/sricharan-goud-707b3729a/
+I enjoy building practical projects, learning new technologies, and continuously improving my technical skills.
 
-Portfolio:
-https://sricharangoud.github.io/Personal_Portfolio/
+- 🎓 Student and aspiring Software Engineer
+- 💻 Interested in **SAP ABAP, Java, Python & Full Stack Development**
+- 🤖 Exploring **AI/ML and intelligent applications**
+- 🚀 Passionate about learning, building, and solving real-world problems
+- 🌱 Currently expanding my knowledge across software and AI technologies
 
-TECHNICAL SKILLS:
+---
 
-SAP:
+## 🛠️ Tech Stack
 
-* SAP ABAP
-* SAP ABAP Cloud
+### SAP
 
-Programming:
+<p>
+  <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20ABAP%20Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+</p>
 
-* Java
-* Python
-* JavaScript
+### Programming Languages
 
-Web Development:
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-* HTML
-* CSS
-* React.js
-* Node.js
-* Express.js
+### Frontend
 
-AI:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
-* AI/ML
+### Backend
 
-CERTIFICATIONS & ACHIEVEMENTS:
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
-* Microsoft Certified: Azure AI Fundamentals (AI-900)
-* SAP Certified Associate - ABAP Cloud
-* 3rd Place — Project Expo 2023
-* UDBHAVA X'26 — 12-Hour Multi-Domain Hackathon Participant
+### AI / Machine Learning
 
-PROJECTS:
+<p>
+  <img src="https://img.shields.io/badge/AI%2FML-412991?style=for-the-badge&logo=ai&logoColor=white" />
+</p>
 
-1. Student Management System — SAP ABAP
-2. Bone Fracture Detection System
-3. Movie World
-
-==================================================
-CREATE THE FOLLOWING README
-===========================
-
-SECTION 1 — ANIMATED HEADER
-
-Create an attractive GitHub profile header.
-
-Include:
-
-* A professional greeting
-* My name: P. Sricharan Goud
-* My role: Student
-* A typing animation using readme-typing-svg
-
-Typing animation should include lines such as:
-
-"Student & Aspiring Software Engineer"
-"SAP ABAP Developer"
-"Java & Python Developer"
-"Full Stack Developer"
-"AI/ML Enthusiast"
-
-Use a clean professional animation.
-
-Add a suitable wave/greeting GIF if it loads reliably.
-
-Do NOT use broken images.
-
-==================================================
-
-SECTION 2 — ABOUT ME
-
-Create a concise but strong professional About Me section.
-
-Mention that I am a student interested in software development, SAP ABAP, full-stack development, and AI/ML.
-
-Mention that I work with:
-
-* SAP ABAP
-* Java
-* Python
-* JavaScript
-* React.js
-* Node.js
-* Express.js
-* HTML/CSS
-* AI/ML
-
-Write it naturally and professionally.
-
-Add 3–4 short bullet points about my interests and career direction.
-
-Do not exaggerate my experience.
-
-Do not claim professional experience that I have not provided.
-
-==================================================
-
-SECTION 3 — TECH STACK
-
-Create a visually attractive Technology Stack section using shields.io badges.
-
-Organize the technologies into categories.
-
-SAP:
-
-* SAP ABAP
-* SAP ABAP Cloud
-
-Languages:
-
-* Java
-* Python
-* JavaScript
-
-Frontend:
-
-* HTML
-* CSS
-* React.js
-
-Backend:
-
-* Node.js
-* Express.js
-
-AI/ML:
-
-* AI/ML
-
-Use appropriate technology logos where shields.io supports them.
-
-Make badges clickable when appropriate.
-
-==================================================
-
-SECTION 4 — CERTIFICATIONS & ACHIEVEMENTS
-
-Create a professional section called:
-
-## 🏆 Certifications & Achievements
-
-Include:
-
-* Microsoft Certified: Azure AI Fundamentals (AI-900)
-* SAP Certified Associate - ABAP Cloud
-* 🥉 3rd Place — Project Expo 2023
-* UDBHAVA X'26 — 12-Hour Multi-Domain Hackathon Participant
-
-Keep the wording accurate.
-
-Do not invent certificate IDs, dates, organizations, rankings, or links.
-
-==================================================
-
-SECTION 5 — FEATURED PROJECTS
-
-Create a section:
+---
 
 ## 🚀 Featured Projects
 
-Show these projects clearly:
+### 📚 Student Management System — SAP ABAP
 
-### 1. Student Management System — SAP ABAP
+A student management project developed using **SAP ABAP**, focused on managing and organizing student-related information within an SAP environment.
 
-Briefly describe it as a student management project developed using SAP ABAP.
+### 🦴 Bone Fracture Detection System
 
-### 2. Bone Fracture Detection System
+An **AI/ML-based project** focused on detecting bone fractures from medical images.
 
-Briefly describe it as an AI/ML-based project for detecting bone fractures from medical images.
+### 🎬 Movie World
 
-### 3. Movie World
+A web-based movie project developed to provide an interactive experience for exploring movie-related information.
 
-Briefly describe it as a web-based movie-related project.
+---
 
-IMPORTANT:
-Use my actual GitHub repositories if they exist.
+## 🏆 Certifications & Achievements
 
-Search my GitHub profile for repositories matching these project names.
+- 🏅 **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+- 🏅 **SAP Certified Associate - ABAP Cloud**
+- 🥉 **3rd Place — Project Expo 2023**
+- 💻 **UDBHAVA X'26 — 12-Hour Multi-Domain Hackathon Participant**
 
-For each matching repository:
+---
 
-* Add a clickable link to the repository.
-* Use the exact repository URL.
-* Do not invent repository URLs.
+## 📊 GitHub Statistics
 
-If a project repository cannot be found, mention the project without creating a fake link.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sricharangoud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sricharangoud&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
-==================================================
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sricharangoud&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
-SECTION 6 — GITHUB STATISTICS
+---
 
-Add a professional GitHub statistics section.
+## 🏆 GitHub Trophies
 
-Include:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sricharangoud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
-* GitHub Stats Card
-* GitHub Streak Stats
-* Top Languages Card
+---
 
-Use:
+## 🐍 Contribution Graph
 
-anuraghazra/github-readme-stats
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sricharangoud/Sricharangoud/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
-and:
-
-github-readme-streak-stats
-
-Use my exact username:
-
-Sricharangoud
-
-Use a professional theme such as tokyonight.
-
-Make sure the username is correct in EVERY statistics URL.
-
-Do not use another person's username.
-
-Arrange the cards neatly and make sure they work correctly.
-
-==================================================
-
-SECTION 7 — GITHUB TROPHIES
-
-Add a GitHub Trophies section using:
-
-ryo-ma/github-profile-trophy
-
-Use my exact username:
-
-Sricharangoud
-
-Use a professional dark theme.
-
-Do not display fake achievements.
-
-==================================================
-
-SECTION 8 — PROFILE VIEWS
-
-Add a profile visitor counter using a reliable profile-view counter service such as Komarev.
-
-Use:
-
-Sricharangoud
-
-Make sure the counter URL uses my exact GitHub username.
-
-Place it near the top or bottom of the profile.
-
-==================================================
-
-SECTION 9 — CONTRIBUTION GRAPH
-
-Add a contribution visualization if it can be implemented reliably.
-
-If using a contribution snake animation, make sure it is configured correctly for:
-
-Sricharangoud
-
-Do not add a broken image.
-
-If the snake animation requires a GitHub Actions workflow, explain/create the required workflow only if it can be done safely without modifying my existing projects.
-
-==================================================
-
-SECTION 10 — SOCIAL LINKS
-
-Create a:
+---
 
 ## 🤝 Connect With Me
 
-section.
+<p align="center">
 
-Include:
+<a href="https://www.linkedin.com/in/sricharan-goud-707b3729a/">
+  <img src="https://img.shields.io/badge/LinkedIn-P.%20Sricharan%20Goud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-LinkedIn:
-https://www.linkedin.com/in/sricharan-goud-707b3729a/
+<a href="https://sricharangoud.github.io/Personal_Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-Portfolio:
-https://sricharangoud.github.io/Personal_Portfolio/
+</p>
 
-Use attractive clickable badges.
+---
 
-Do NOT add YouTube, Instagram, Medium, or other social accounts because I have not provided them.
+## 🌱 Currently Learning
 
-==================================================
+- Advanced SAP ABAP & ABAP Cloud
+- Full Stack Development
+- Artificial Intelligence & Machine Learning
+- Java & Python Development
+- Modern Web Technologies
 
-SECTION 11 — PROFILE FOOTER
+---
 
-Add a professional closing section.
+## 💡 My Goal
 
-Example concept:
+> **Learn continuously. Build meaningful projects. Solve real-world problems.**
 
-"Always learning, building, and exploring new technologies."
+I'm always looking for opportunities to learn, collaborate, and build innovative solutions using software development, SAP technologies, and AI.
 
-Then add my LinkedIn and portfolio links again as simple clickable buttons/badges if appropriate.
+---
 
-Keep the footer clean.
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
 
-==================================================
-DESIGN REQUIREMENTS
-===================
-
-Make the entire README:
-
-* Modern
-* Professional
-* Recruiter-friendly
-* Clean
-* Well organized
-* Not excessively long
-* Easy to scan
-* Mobile-friendly
-* Compatible with GitHub Markdown
-
-Use appropriate emojis, but don't overuse them.
-
-Use horizontal separators between major sections where appropriate.
-
-Do not make the README look childish or overly colorful.
-
-Prioritize readability.
-
-==================================================
-IMPORTANT SAFETY RULES
-======================
-
-1. ONLY modify:
-
-Sricharangoud/Sricharangoud/README.md
-
-2. Do NOT modify my other repositories.
-
-3. Do NOT delete any repositories.
-
-4. Do NOT rename any repositories.
-
-5. Do NOT change repository visibility.
-
-6. Do NOT modify project source code.
-
-7. Do NOT create fake project links.
-
-8. Do NOT create fake certifications.
-
-9. Do NOT claim work experience that I have not provided.
-
-10. Do NOT use another GitHub username anywhere in the profile.
-
-11. Before committing, review the complete README for broken Markdown and incorrect URLs.
-
-12. Make sure all external image URLs are valid.
-
-13. Make sure statistics cards use:
-
-Sricharangoud
-
-14. After everything is ready, commit the README changes to the profile repository.
-
-15. Do not touch any other repository.
-
-==================================================
-FINAL CHECK
-===========
-
-Before committing, verify:
-
-✓ Name is P. Sricharan Goud
-✓ Username is Sricharangoud
-✓ Role is Student
-✓ SAP ABAP is included
-✓ Java is included
-✓ Python is included
-✓ HTML/CSS is included
-✓ JavaScript is included
-✓ React.js is included
-✓ Node.js is included
-✓ Express.js is included
-✓ AI/ML is included
-✓ AI-900 certification is included
-✓ SAP Certified Associate - ABAP Cloud is included
-✓ Project Expo achievement is included
-✓ UDBHAVA X'26 participation is included
-✓ All 3 projects are included
-✓ LinkedIn is correct
-✓ Portfolio is correct
-✓ GitHub stats use Sricharangoud
-✓ GitHub trophies use Sricharangoud
-✓ Visitor counter uses Sricharangoud
-✓ No fake information is added
-✓ No existing repositories are modified
-✓ README is valid GitHub Markdown
-
-After completing the work, commit the changes and tell me that the GitHub profile README has been updated.
+<p align="center">
+  <i>Keep learning. Keep building. Keep growing.</i>
+</p>
